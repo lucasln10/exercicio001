@@ -1,0 +1,2 @@
+# exercicio001
+TRABALHO EM C PARA FACUDADE.
